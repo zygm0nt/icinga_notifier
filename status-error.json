@@ -1,0 +1,7 @@
+{ "cgi_json_version": "1.7.1",
+"status": {
+"service_status": [
+{ "host": "rc01m03", "service": "CLUSTER HEALTH", "status": "CRITICAL", "last_check": "07-01-2013 09:50:45", "duration": "0d  0h  0m 46s", "attempts": "1/4", "is_flapping": false, "in_scheduled_downtime": false, "active_checks_enabled": true, "passive_checks_enabled": true, "notifications_enabled": true, "has_been_acknowledged": false, "host_display_name": "rc01m03", "service_display_name": "CLUSTER HEALTH", "status_information": "CRITICAL - Datanodes available: 10 (10 total, 0 dead), DFS used: 86.03%, HBase health: <Timeout>, Hive health: Ok"}
+]
+}
+}
